@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I am Daniel 👋
 
-<!--
-**gutierrezrd90/gutierrezrd90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Data Scientist and Physicist
+- I worked at the National Institute of Statistics and Geography of Mexico ([INEGI](https://www.inegi.org.mx/))
+- I worked at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx/))
+- I completed the [BEDU - Santander Data Science Specialization](https://app.becas-santander.com/es/program/becas-santander-tecnologia-innovacion-para-el-futuro-or-bedu)
+- I have a BSc, MSc and PhD in Physics
+- I’m currently learning more about Data Science and Machine Learning
+- How to reach me: gutierrezrd90@gmail.com
+- Here's a list of my scientific publications: [ORCID](https://orcid.org/0000-0002-8805-0963)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- English (full professional proficiency) and native Spanish
+- Analytical thinking, self-learning capacity, problem-solving and perseverance
+- Database extraction, data processing and analysis
+- Python
+- R
+- C
+- MySQL
+- Wolfram Mathematica
+- Linux
+- LaTeX
