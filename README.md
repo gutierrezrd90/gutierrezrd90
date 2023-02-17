@@ -10,7 +10,6 @@
 - Here's a list of my scientific publications: [ORCID](https://orcid.org/0000-0002-8805-0963)
 
 ## Skills
-- English (full professional proficiency) and native Spanish
 - Analytical thinking, self-learning capacity, problem-solving and perseverance
 - Database extraction, data processing and analysis
 - Python
@@ -20,3 +19,6 @@
 - Wolfram Mathematica
 - Linux
 - LaTeX
+
+## Languages
+- English (full professional proficiency) and native Spanish
