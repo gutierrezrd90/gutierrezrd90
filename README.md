@@ -1,6 +1,7 @@
 # Hi, I am Daniel 👋
 
 ## I am a Data Scientist and Physicist
+- I worked at DEACERO ([DEACERO](https://www.deacero.com/))
 - I worked at the National Institute of Statistics and Geography of Mexico ([INEGI](https://www.inegi.org.mx/))
 - I worked at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx/))
 - I completed the [BEDU - Santander Data Science Specialization](https://app.becas-santander.com/es/program/becas-santander-tecnologia-innovacion-para-el-futuro-or-bedu)
