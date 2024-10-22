@@ -1,6 +1,7 @@
 # Hi, I am Daniel 👋
 
 ## I am a Data Scientist and Physicist
+- I work at Ares Materials ([Ares](https://www.aresmaterials.com))
 - I worked at DEACERO ([DEACERO](https://www.deacero.com/))
 - I worked at the National Institute of Statistics and Geography of Mexico ([INEGI](https://www.inegi.org.mx/))
 - I worked at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx/))
